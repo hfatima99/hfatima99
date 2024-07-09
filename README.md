@@ -4,7 +4,6 @@
 *   👀 I’m interested in full-stack development, creating seamless user experiences, and exploring the latest technologies.
 *   🌱 I’m currently learning advanced CI/CD workflows and enhancing my skills in micro frontend architectures.
 *   💞️ I’m looking to collaborate on innovative projects that challenge my abilities and help businesses grow.
-*   📫 How to reach me: \[huniafatima99@gmail.com]
 *   ⚡ Fun fact: I thrive on solving complex problems and never leave a challenge unsolved!
 
 I have extensive experience in developing applications using React, Next.js, Django, and the MERN stack. My key projects include:
@@ -23,7 +22,7 @@ I am passionate about optimizing user experiences and continuously exploring new
 
 <h3 align="left">Languages and Tools</h3>
 <div>
-  <a style="margin:10px;" href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img style="margin:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+  <img style="margin:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <a style="margin:10px;" href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img style="margin:10px;" src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> 
   <a style="margin:10px;" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img style="margin:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a style="margin:10px;" href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img style="margin:10px;" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
