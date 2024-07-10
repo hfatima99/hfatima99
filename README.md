@@ -9,9 +9,9 @@
 I have extensive experience in developing applications using React, Next.js, Django, and the MERN stack. My key projects include:
 
 *   Developing a comprehensive business analytics product (Locl) with integrations for Instagram and Facebook.
-*   Leading the front-end development for real estate and e-commerce products, building custom CRMs and multi-tenant systems.
+*   Leading the front-end development for real estate and e-commerce products, building CRMs and multi-tenant systems.
 *   Creating an audio streaming site with Next.js, featuring server-side rendering, personalized playlists, and payment integration.
-*   Working on the main website of Motive, focusing on WordPress, custom plugins, CSS, Sass, and animations.
+*   Working on the main website of Motive, focusing on WordPress, custom blocks, CSS, Sass, and animations.
 *   Building a real-time ride-tracking application for Careem and maintaining multiple micro frontends for edX.
 
 I am passionate about optimizing user experiences and continuously exploring new technologies to deliver high-quality solutions.
